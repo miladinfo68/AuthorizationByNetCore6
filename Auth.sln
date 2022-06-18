@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identityserver4", "Identityserver4\Identityserver4.csproj", "{12D9F70D-825C-4A8C-9C1B-AA0AEFDF8717}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basics", "Basics\Basics.csproj", "{CFB37ED4-5130-46FC-BA91-5DADB4D61251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D9F70D-825C-4A8C-9C1B-AA0AEFDF8717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D9F70D-825C-4A8C-9C1B-AA0AEFDF8717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D9F70D-825C-4A8C-9C1B-AA0AEFDF8717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D9F70D-825C-4A8C-9C1B-AA0AEFDF8717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB37ED4-5130-46FC-BA91-5DADB4D61251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB37ED4-5130-46FC-BA91-5DADB4D61251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB37ED4-5130-46FC-BA91-5DADB4D61251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB37ED4-5130-46FC-BA91-5DADB4D61251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FD9F7E-8923-424C-A8CF-4E00D395C73D}
+	EndGlobalSection
+EndGlobal
